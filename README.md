@@ -18,7 +18,7 @@
 
   </div>
 
-  <h3 align="center">Stock Market App — Alerts, Charts, AI Insights</h3>
+  <h3 align="center">Stock Market IHSG App — Alerts, Charts, AI Insights</h3>
 
    <div align="center">
      Build this project step by step with our detailed tutorial on <a href="https://youtu.be/gu4pafNCXng" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
